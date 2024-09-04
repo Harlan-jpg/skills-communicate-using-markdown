@@ -1,3 +1,4 @@
+# This is a title
 Bacon ipsum dolor amet chicken biltong tongue ullamco beef sausage minim strip steak mollit id exercitation aliquip. Cillum sausage sunt magna, rump exercitation ut buffalo pariatur voluptate flank nostrud ground round. Ham hock in burgdoggen, chuck enim sausage strip steak beef ribs turducken picanha. Shank id sint pork chop, exercitation ullamco sed pig prosciutto consequat beef drumstick anim alcatra pancetta. Lorem t-bone ribeye leberkas, consectetur strip steak porchetta officia salami beef. Nostrud chuck nisi reprehenderit andouille.
 
 
@@ -28,3 +29,9 @@ struct fake_IDApp: App {
     }
 }
 ```
+### Todays list of things to do
+- [x] work on git hub
+- [ ] Finish up the fake ID app
+- [ ] Objects in swift
+- [ ] Code Stories
+- [ ] HTML stuff (ignore) 
