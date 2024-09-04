@@ -15,3 +15,16 @@ Reprehenderit tail pariatur, cillum fugiat ea irure jowl sunt. Chuck ea sausage 
 ##### Post it not
 ![Gangis Khan](https://assets.editorial.aetnd.com/uploads/2014/04/genghis-khan-gettyimages-1404441104.jpg?width=1248&height=624&crop=1248%3A624%2Csmart&quality=75&auto=webp)
 ###### This is not skibidi aigma
+
+```swift
+import SwiftUI
+
+@main
+struct fake_IDApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
+```
